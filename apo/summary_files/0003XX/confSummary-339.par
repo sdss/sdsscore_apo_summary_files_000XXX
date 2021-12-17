@@ -4,7 +4,7 @@
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2021-12-17 05:06:31 UTC
+# 2021-12-17 09:27:33 UTC
 #
 configuration_id 339
 robostrategy_run manual
@@ -20,7 +20,7 @@ temperature -999
 raCen 75.0
 decCen 0.0
 pa 0.0
-is_dithered 0
+is_dithered 1
 parent_configuration 335
 dither_radius 0.1
 
