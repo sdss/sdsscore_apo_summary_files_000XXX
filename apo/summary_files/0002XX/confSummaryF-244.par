@@ -4,7 +4,7 @@
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2021-12-15 01:03:46 UTC
+# 2022-04-11 21:37:30 UTC
 #
 configuration_id 244
 robostrategy_run manual
@@ -19,6 +19,7 @@ observatory APO
 temperature -999
 raCen 30.0
 decCen 20.0
+fvc_image_path /data/fcam/59563/proc-fimg-fvc1n-0006.fits
 
 typedef enum {
     BOSS,

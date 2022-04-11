@@ -4,7 +4,7 @@
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2022-01-01 01:59:52 UTC
+# 2022-04-11 21:43:47 UTC
 #
 configuration_id 999
 robostrategy_run manual
@@ -24,6 +24,7 @@ is_dithered 1
 parent_configuration 994
 dither_radius 0.1
 fvc_rms 0.07565
+fvc_image_path /data/fcam/59580/proc-fimg-fvc1n-0017.fits
 
 typedef enum {
     BOSS,

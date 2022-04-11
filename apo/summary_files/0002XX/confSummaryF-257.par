@@ -4,7 +4,7 @@
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2021-12-15 05:53:33 UTC
+# 2022-04-11 21:37:46 UTC
 #
 configuration_id 257
 robostrategy_run manual
@@ -20,6 +20,7 @@ temperature -999
 raCen 60.0
 decCen 20.0
 fvc_rms 0.005044969622775223
+fvc_image_path /data/fcam/59563/proc-fimg-fvc1n-0071.fits
 
 typedef enum {
     BOSS,
